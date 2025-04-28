@@ -17,5 +17,4 @@ public class MDCController {
 			return MDCResultado (y, x);
 		}
 	}
-
 }
